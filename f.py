@@ -10,3 +10,12 @@ def divide (a, b):
         return a / b
     else:
         return "Error: Division by zero is not allowed."
+    
+def main():
+    num1 = 10
+    num2 = 5
+    
+    print("Addition:", add(num1, num2))
+    print("Subtraction:", subtract(num1, num2))
+    print("Multiplication:", multiply(num1, num2))
+    print("Division:", divide(num1, num2))
