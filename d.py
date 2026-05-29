@@ -1,1 +1,5 @@
-print("Hello, World!","this is dubai")
+print("add+subtract")
+print("multiply+divide")
+print("Hello, World!")
+print("This is a test.")
+print("This is a continuation of the previous line.")
