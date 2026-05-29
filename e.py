@@ -1,1 +1,1 @@
-print("himalayan bike")
+print("himalayan bike, widely used for transportation in the hilly regions of Nepal, is known for its durability and ability to navigate rough terrains. It has a sturdy frame, strong suspension, and powerful brakes, making it ideal for the challenging mountain roads. The bike's design allows it to handle steep inclines and uneven surfaces, making it a popular choice among locals and tourists alike for exploring the scenic landscapes of Nepal.")
